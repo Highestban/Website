@@ -1,0 +1,60 @@
+html {
+	background-color: #111111
+}
+
+body {
+	font-size: 15pt;
+	text-align: center;
+	font-size 12;
+	color: lightblue;
+}
+
+h1 {
+	color: white;
+	display: inline-block;
+	background-color: lightblue;
+	font-size: 32pt;
+	padding: 5px 10px;
+	margin 20px auto;
+	text-align: center;
+	display: inline-block;
+	
+}
+
+h2 {
+	color: white /* ANTI - LEFT!!!! NO LEFT ALIGNMENT!!!!!!!!!! NO LEFT TEXT ALIGNMENT!!!!! */
+}
+
+h3 {
+	color: white
+}
+
+p {
+	color: white
+}
+
+i {
+	color: lightblue
+}
+
+img {
+	margin: 0 15px 15px 0;
+}
+
+p.shrt {
+	display: inline-block;
+	background-color: lightblue;
+	width: 600px;
+	padding: 5px 10px;
+	margin: 10px 0;
+	text-align: center;
+}
+
+.row {
+	display: flex;
+	gap: 20px;
+}
+
+li {
+	text-align: left;
+}
